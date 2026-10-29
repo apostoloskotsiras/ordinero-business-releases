@@ -1,0 +1,44 @@
+{
+  "name": "Ordinero Business",
+  "identifier": "gr.ordinero.business.source",
+  "subtitle": "The Ordinero Business iPhone app",
+  "description": "Add this source to install Ordinero Business and get its updates.",
+  "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/ordinero-business-releases/main/icon.png",
+  "website": "https://github.com/apostoloskotsiras/ordinero-business-releases",
+  "tintColor": "#B24A22",
+  "apps": [
+    {
+      "name": "Ordinero Business",
+      "bundleIdentifier": "com.apostoloskotsiras.SommelierBusiness",
+      "developerName": "apostoloskotsiras",
+      "subtitle": "Your restaurant tonight",
+      "localizedDescription": "Tonight’s tables, bills and menu for Ordinero restaurant owners.",
+      "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/ordinero-business-releases/main/icon.png",
+      "tintColor": "#B24A22",
+      "category": "productivity",
+      "version": "1.1.0",
+      "versionDate": "2026-10-29T14:51:04Z",
+      "versionDescription": "A new look.\n\n- Sign in: a new welcome page with the raccoon, email sign-in on a page of its own, and a cheer when you're in.\n- Overview: \"Tonight\" at the top, with the week, today's takings against a typical day, open orders and tables in use.\n- Tables: every table in a list showing where it is in its visit, with the bills that are waiting first. Settle a table\n  by card or cash from its sheet.\n- The app asks you to install a new version as soon as one is out.",
+      "downloadURL": "https://github.com/apostoloskotsiras/ordinero-business-releases/releases/download/ios-2/OrdineroBusiness.ipa",
+      "size": 5031777,
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "2",
+          "date": "2026-10-29T14:51:04Z",
+          "localizedDescription": "A new look.\n\n- Sign in: a new welcome page with the raccoon, email sign-in on a page of its own, and a cheer when you're in.\n- Overview: \"Tonight\" at the top, with the week, today's takings against a typical day, open orders and tables in use.\n- Tables: every table in a list showing where it is in its visit, with the bills that are waiting first. Settle a table\n  by card or cash from its sheet.\n- The app asks you to install a new version as soon as one is out.",
+          "downloadURL": "https://github.com/apostoloskotsiras/ordinero-business-releases/releases/download/ios-2/OrdineroBusiness.ipa",
+          "size": 5031777,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Ordinero uses the camera to scan the sign-in code on your dashboard, to take photos for your menu and to map your room for the table finder."
+        }
+      }
+    }
+  ],
+  "news": []
+}
