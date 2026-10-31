@@ -16,26 +16,26 @@
       "iconURL": "https://raw.githubusercontent.com/apostoloskotsiras/ordinero-business-releases/main/icon.png",
       "tintColor": "#B24A22",
       "category": "productivity",
-      "version": "1.3.1",
-      "versionDate": "2026-10-30T03:27:02Z",
-      "versionDescription": "After marking a table paid, Done and Mark cleared sit side by side at the bottom again, and Paid and the receipt show without scrolling. The raccoon now cheers with both paws up, raising them as it lands and pumping them with each hop.",
-      "downloadURL": "https://github.com/apostoloskotsiras/ordinero-business-releases/releases/download/ios-9/OrdineroBusiness.ipa",
-      "size": 5194721,
+      "version": "1.3.2",
+      "versionDate": "2026-10-31T19:50:57Z",
+      "versionDescription": "The table finder is gone: the arrow button no longer appears on Tables, and the app no longer maps your room with the camera.",
+      "downloadURL": "https://github.com/apostoloskotsiras/ordinero-business-releases/releases/download/ios-10/OrdineroBusiness.ipa",
+      "size": 5020181,
       "versions": [
         {
-          "version": "1.3.1",
-          "buildVersion": "9",
-          "date": "2026-10-30T03:27:02Z",
-          "localizedDescription": "After marking a table paid, Done and Mark cleared sit side by side at the bottom again, and Paid and the receipt show without scrolling. The raccoon now cheers with both paws up, raising them as it lands and pumping them with each hop.",
-          "downloadURL": "https://github.com/apostoloskotsiras/ordinero-business-releases/releases/download/ios-9/OrdineroBusiness.ipa",
-          "size": 5194721,
+          "version": "1.3.2",
+          "buildVersion": "10",
+          "date": "2026-10-31T19:50:57Z",
+          "localizedDescription": "The table finder is gone: the arrow button no longer appears on Tables, and the app no longer maps your room with the camera.",
+          "downloadURL": "https://github.com/apostoloskotsiras/ordinero-business-releases/releases/download/ios-10/OrdineroBusiness.ipa",
+          "size": 5020181,
           "minOSVersion": "26.0"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSCameraUsageDescription": "Ordinero uses the camera to scan the sign-in code on your dashboard, to take photos for your menu and to map your room for the table finder."
+          "NSCameraUsageDescription": "Ordinero uses the camera to scan the sign-in code on your dashboard and to take photos for your menu."
         }
       }
     }
